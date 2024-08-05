@@ -34,7 +34,7 @@ const secretIngredients = {
 };
 ```
 
-## 🏬 STEP 3: Stores List and Joke of the Day
+## 🏬 STEP 3: Stores List and Quote of the Day
 
 - Create a page to list the stores using the file `stores.json`
 - Fetch and display the Quote of the Day from the API on the stores page and the result page.
